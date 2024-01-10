@@ -1,0 +1,113 @@
+#container-1{
+    height: 1050px;
+    width: 1250px;
+    background-color: rgb(51, 154, 154);
+
+
+}
+
+#container-2{
+
+    height: 550px;
+    width: 1250px;
+    background-color:rgba(2, 24, 23, 0.846);
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+   
+}
+
+#logo{
+    height: 520px;
+    width: 900px;
+    position: absolute;
+    background-size: contain;
+
+}
+
+
+
+#login{
+    color: white;
+    background-color: rgb(234, 58, 19);
+    height: 65px;
+    width: 200px;
+    font-size: 30px;
+    border-radius: 20px;
+    margin: 5px;
+    position:absolute;
+    left:600px;
+    top: 520px;
+}
+
+#login:hover{
+    background-color: rgb(12, 11, 11);
+}
+
+#register{
+
+    
+    color: white;
+    background-color: rgb(234, 58, 19);
+    height: 65px;
+    width: 200px;
+    font-size: 30px;
+    border-radius: 20px;
+    margin: 5px;
+    position:absolute;
+    left:850px;
+    top: 520px;
+}
+
+#register:hover{
+    background-color: black;
+}
+
+#container-3{
+
+    position: absolute;
+    top: 650PX;
+    margin-left: 12px;
+}
+
+#try{
+    
+    color: white;
+    background-color:rgba(8, 43, 42, 0.932) ;
+    height: 65px;
+    width: 200px;
+    font-size: 30px;
+    border-radius: 30px;
+    margin: 5px;
+    position:absolute;
+    left:500px;
+    top: 320px;
+    position: absolute;
+    /* top: 270PX; */
+}
+
+#try:hover{
+    background-color: rgb(25, 200, 25);
+
+}
+
+h2{
+    color: rgb(251, 251, 248);
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#about{
+    position: absolute;
+    top: 50px;
+    left: 700px;
+}
+
+h3{
+    color: rgb(48, 238, 175);
+}
+h1{
+    color: rgba(252, 154, 7, 0.979);
+}

@@ -1,0 +1,54 @@
+#outer{
+    height: 645px;
+    width: 1255px;
+    background-color:rgba(2, 24, 23, 0.846);
+
+}
+
+#inner{
+   height: 520px;
+   width: 480px;
+   background-color: rgb(13, 166, 166);
+   border-radius: 20px;
+   position: absolute;
+   top:85px;
+   left: 400px;
+
+}
+
+.input{
+   border-radius:10px;
+   height: 40px;
+   width: 300px;
+   margin: 12Px;
+   opacity: 0.8;
+   
+
+}
+
+
+section{
+    position: relative;
+    left: 80px;
+
+}
+
+button{
+    background-color:black;
+    color: white;
+    
+}
+
+h4{
+    color: white;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
